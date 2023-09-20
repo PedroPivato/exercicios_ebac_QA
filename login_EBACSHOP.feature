@@ -25,11 +25,11 @@
 
             Exemplos:
 
-            | usuario             | senha    | mensagem         |
-            | "nina@ebac.com.br"  | "abccba" | "Seja bem-vindo" |
-            | "maria@ebac.com.br" | "abccba" | "Seja bem-vindo" |
-            | "joão@ebac.com.br"  | "abccba" | "Seja bem-vindo" |
-            | "carlos@ebac.com.br"  | "abccba" | "Seja bem-vindo" |
-            | "fabio@ebac.com.br"  | "abccba" | "Seja bem-vindo" |
+            | usuario                 | senha    | mensagem         |
+            | "nina@ebac.com.br"      | "abccba" | "Seja bem-vindo(a)" |
+            | "maria_33312@gmail.com" | "abccba" | "Seja bem-vindo(a)" |
+            | "joão@hotmail.com"      | "abccba" | "Seja bem-vindo(a)" |
+            | "carlos@facebook.com"   | "abccba" | "Seja bem-vindo(a)" |
+            | "fabio@uol.com.br"      | "abccba" | "Seja bem-vindo(a)" |
 
 
