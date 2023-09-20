@@ -17,9 +17,7 @@
             Então as configurações de cor, tamanho e quantidade devem ser resetadas
 
             Esquema do Cenário: Configurar seleções de cor, tamanho e quantidade obrigatoriamente
-            Quando eu selecionar a <cor> de um produto
-            E o <tamanho>
-            E a <quantidade>
+            Quando eu selecionar a <cor>, <tamanho> e <quantidade> de um produto
             Então deve validar a inserção do produto no carrinho
 
             Exemplos:
